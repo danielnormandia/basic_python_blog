@@ -8,6 +8,10 @@ background-image: url("http://i.imgur.com/KlZBdBO.jpg");
   color: #ffffff;
 }
 
+body.mainView {
+  text-align: center;
+}
+
 h1 a {
   color: #ffffff;
   font-family: 'Gochi Hand', cursive;
